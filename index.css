@@ -1,0 +1,58 @@
+.index-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-end;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://img.freepik.com/free-vector/neon-grid-background_53876-91657.jpg?w=826&t=st=1697342676~exp=1697343276~hmac=46c0b78dbc04dca6c42536f46bdab4315b0a92fbe7cd861f172346736c8477c2');
+}
+.index-text {
+  color: rgb(255, 255, 255);
+  z-index: 100;
+  font-size: 36px;
+  align-self: flex-start;
+  margin-top: 0px;
+  text-align: left;
+  font-family: "Daydream";
+  margin-left: 160px;
+  margin-right: 0px;
+  border-radius: var(--dl-radius-radius-radius4);
+  margin-bottom: 0px;
+  text-transform: uppercase;
+}
+.index-sidebar {
+  width: 621px;
+  height: 666px;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  align-self: flex-start;
+  margin-top: 10px;
+  align-items: flex-start;
+  margin-left: 10px;
+  padding-top: 32px;
+  border-color: #ffffff;
+  border-width: 5px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: flex-start;
+  background-image: url('https://img.freepik.com/free-vector/colorful-memphis-pattern_1045-815.jpg?w=740&t=st=1697525377~exp=1697525977~hmac=fc8039c9e113566906f7da04c11bb45042a7f6f1beba6885e042dfadc38a463d');
+}
+.index-navlink {
+  color: #000000;
+  padding: 2px;
+  font-size: 20px;
+  align-self: center;
+  text-align: center;
+  border-color: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: #ffffff;
+}

@@ -1,0 +1,26 @@
+.smw-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://img.freepik.com/free-vector/neon-grid-background_53876-91657.jpg?w=826&t=st=1697342676~exp=1697343276~hmac=46c0b78dbc04dca6c42536f46bdab4315b0a92fbe7cd861f172346736c8477c2');
+}
+.smw-navlink {
+  top: 13px;
+  left: 11px;
+  color: #ffffff;
+  position: absolute;
+  font-family: "Daydream";
+  text-decoration: none;
+}
+.smw-container1 {
+  width: 644px;
+  height: 483px;
+}
+.smw-container2 {
+  display: contents;
+}
