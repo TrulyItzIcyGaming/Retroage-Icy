@@ -18,3 +18,5 @@ Supported Browsers
 
 Google Chrome
 should work on most other browsers too
+
+----This websites basic elements started off being made by teleportHQ.io, after a the basic layout, the rest was expanded on with my knowlege (remember guys, think smart not hard!)
